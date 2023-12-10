@@ -1,0 +1,19 @@
+{
+    "name": "mahendran/hello-world-package",
+    "description": "Airthmetic Operation",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mahendran\\HelloWorldPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mahendran",
+            "email": "bmahendranmca@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
