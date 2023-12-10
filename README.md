@@ -1,0 +1,2 @@
+# HelloWorldPackage
+Simple Laravel HelloWorldPackage
