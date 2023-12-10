@@ -3,6 +3,8 @@
     "description": "Airthmetic Operation",
     "type": "project",
     "license": "MIT",
+    "keywords": ["log","logging"],
+    "homepage": "https://github.com/Mahendran-Balaji/",
     "autoload": {
         "psr-4": {
             "Mahendran\\HelloWorldPackage\\": "src/"
@@ -11,9 +13,12 @@
     "authors": [
         {
             "name": "mahendran",
-            "email": "bmahendranmca@gmail.com"
+            "email": "bmahendranmca@gmail.com",
+            "role": "Developer"
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "php": ">=8.0.0"
+    }
 }
