@@ -1,6 +1,7 @@
 {
     "name": "mahendran/hello-world-package",
     "description": "Arithmetic Operation",
+    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
     "keywords": ["laravel","arithmetic","mahendran"],
