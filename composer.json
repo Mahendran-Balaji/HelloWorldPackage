@@ -5,6 +5,10 @@
     "license": "MIT",
     "keywords": ["laravel","arithmetic","mahendran"],
     "homepage": "https://github.com/Mahendran-Balaji/HelloWorldPackage",
+    "support": {
+        "issues": "https://github.com/Mahendran-Balaji/HelloWorldPackage/issues",
+        "source": "https://github.com/Mahendran-Balaji/HelloWorldPackage"
+    },
     "autoload": {
         "psr-4": {
             "Mahendran\\HelloWorldPackage\\": "src/"
