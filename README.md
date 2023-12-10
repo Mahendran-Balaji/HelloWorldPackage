@@ -2,7 +2,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/mahendran/hello-world-package.svg?style=flat-square)](https://packagist.org/packages/mahendran/hello-world-package)
 [![Total Downloads](https://img.shields.io/packagist/dt/mahendran/hello-world-package.svg?style=flat-square)](https://packagist.org/packages/mahendran/hello-world-package)
-![GitHub Actions](https://github.com/mahendran/helloworldpackage/actions/workflows/main.yml/badge.svg)
+
 
 ## Installation
 
@@ -26,4 +26,4 @@ composer test
 
 ### Security
 
-If you discover any security related issues, please email mahendran@mailinator.com instead of using the issue tracker.
+If you discover any security related issues, please email bmahendranmca@gmail.com instead of using the issue tracker.
