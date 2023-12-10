@@ -3,8 +3,8 @@
     "description": "Airthmetic Operation",
     "type": "project",
     "license": "MIT",
-    "keywords": ["log","logging"],
-    "homepage": "https://github.com/Mahendran-Balaji/",
+    "keywords": ["laravel","airthmetic","mahendran"],
+    "homepage": "https://github.com/Mahendran-Balaji/HelloWorldPackage",
     "autoload": {
         "psr-4": {
             "Mahendran\\HelloWorldPackage\\": "src/"
@@ -19,6 +19,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=8.0.0"
+        "php": "^7.4|^8.0"
     }
 }
